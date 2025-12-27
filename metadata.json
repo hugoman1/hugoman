@@ -1,0 +1,7 @@
+{
+  "name": "消除信息差 - 鉴别专家",
+  "description": "Cross-domain identification expert helping you identify risks in ingredient lists, contracts, and reports.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
